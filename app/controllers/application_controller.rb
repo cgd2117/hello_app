@@ -4,7 +4,7 @@ class ApplicationController < ActionController::Base
     end 
 
     def goodbye
-        render html: "You got this. You can do this. This is the way."
+        render html: "You got this. You can do this. This is the way. Keep on going."
     end 
 
 end
